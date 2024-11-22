@@ -1,7 +1,7 @@
 ### **Restaurant Data Analysis Project**
 
 ---
-
+![](Snapshot_Dashboard.png)
 #### **Overview**
 This project focuses on analyzing restaurant data from the Abohar region to derive meaningful insights regarding pricing, customer preferences, cuisine popularity, and offer trends. The dataset provides detailed information about restaurants, including ratings, cuisines, pricing, and promotional offers.
 
